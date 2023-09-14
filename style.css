@@ -17,13 +17,6 @@ body{
 
     position: relative;
     margin-top: 180px;
-
-    
-
-    
-
-
-    
 }
 
 .conteudo{
@@ -39,8 +32,6 @@ body{
 
     border-radius: 20px;
     border:2px solid rgba(255, 255, 255, 0.5);
-
-    
 }
 
 h2{
@@ -103,10 +94,7 @@ label{
 
 
 p{
-
     color: #fff;
-    
-    
 }
 
 a{
