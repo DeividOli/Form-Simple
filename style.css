@@ -1,0 +1,121 @@
+body{   
+    background-image: url('/imagens/lofi-fundo.jpg') ;
+    background-attachment: fixed;
+    background-size: cover;
+
+    
+    
+    
+    
+}
+
+.container{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+    margin-top: 180px;
+
+    
+
+    
+
+
+    
+}
+
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    background-color:transparent;
+    backdrop-filter: blur(15px);
+
+    width: 400px;
+    height: 450px;
+
+    justify-content: flex-start;
+
+    border-radius: 20px;
+    border:2px solid rgba(255, 255, 255, 0.5);
+
+    
+}
+
+h2{
+    color: #fff;
+
+    text-align: center;
+
+    font-size: 2em;
+    
+}
+
+input[type=email]{   
+    width: 75%;
+    height: 30px;
+
+    margin-top: 30px;
+
+    background-color: transparent;
+
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+}
+
+input[type=password]{   
+    width: 75%;
+    height: 30px;
+
+    margin-top: 30px;
+
+    background-color: transparent;
+
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+}
+
+input[type=checkbox]{   
+    margin-top: 13px;
+    width: 20px;
+}
+
+.align-check{
+color: black;
+}
+
+button{
+    width: 78%;
+    height: 40px;
+
+    border-radius: 50px;
+    border: 1px black solid;
+    margin-top: 20px;
+    
+}
+
+label{
+    font-size: 12px;
+}
+
+
+p{
+
+    color: #fff;
+    
+    
+}
+
+a{
+    font-weight: 600;
+    color: #fff;
+    text-decoration: none;
+}
+
+.organizar-conteudo-form{
+    text-align: center;
+    padding: 20px;
+}
